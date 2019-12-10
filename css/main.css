@@ -30,6 +30,7 @@ p{
    filter: alpha(opacity=50);
   background-image: url("title-background.jpg");
   background-size:cover;
+  background-attachment: fixed;
   background-color: #000;
   color: #fff;
   padding: 7% 15%;
@@ -55,6 +56,7 @@ p{
 
 #title button {
   padding: 1rem 3rem;
+  border : 3px solid;
 }
 
 
